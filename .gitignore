@@ -1,5 +1,6 @@
 # Generated Data
-data/
+data/Analysis
+data/ProcessDetail
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
